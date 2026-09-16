@@ -22,9 +22,9 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I'm currently working on **Sakoo - Allowance Management App for my university final year project.**
-- 🌱 I'm currently learning **Flutter and Supabase.**
-- ⚡ Fun fact: **I code better with the help of AI.**
+- I'm currently working on **Sakoo - Allowance Management App for my university final year project.**
+- I'm currently learning **Flutter and Supabase.**
+- Fun fact: **I code better with the help of AI. 🤖🤣**
 
 ---
 
